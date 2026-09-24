@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasece-8&label=Profile%20views&color=0e75b6&style=flat" alt="sasece-8" /> </p>
 
-- 🌱 I’m currently learning **Backend development and DevOps**
+- 🌱 I’m currently learning **Backend development, DevOps and Artificial Intelligence.**
 
 - 📫 How to reach me **ts932004@gmail.com**
 
